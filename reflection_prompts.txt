@@ -1,0 +1,36 @@
+1)How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+ANS)
+It shows directly the segment which is different in both the files if there is only one forced unknown mistake in thousands of lines of code it damn helpful. 
+
+
+2)How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+ ANS)when we don't know whats the error with code and dont want to waste time we can always roll back to prevoius version and start fresh
+
+
+3)What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+ANS)if we comit manually it is helpful only if the developer knows exactly when to commit and is not lazy to do it otherwise it has its cons
+automatically saving is quit helpful to user he doesnt need to bother for anything and should choose correct saving option the only drawback is it takes lots of memory and more history to brwse.
+
+
+4)Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+ANS) git contains more of type of interdependent files which work together to give the output of an application where as in google docs one file does not depend or work with any other file so its not needed there.
+
+5)How can you use the commands git log and git diff to view the history of files?
+ANS)git log gives us the all commits list with a id to access thema nd a comment to make sense of it
+git diff is same as FC in windows command prompt which shows changes in code.
+
+6)How might using version control make you more confident to make changes that
+could break something?
+ANS)if make changes and there is a bug we can always rollback soo we dont have any problems to change
+
+7)Now that you have your workspace set up, what do you want to try using Git for?
+
+ANS)  honestly i dont know i think we will use enitre projects may be
+
+8)What happens when you initialize a repository? Why do you need to do it?
+ANS)to start all commits and maintain repositories man what are you thinking be smart
