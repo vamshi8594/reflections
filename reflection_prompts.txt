@@ -34,3 +34,7 @@ ANS)  honestly i dont know i think we will use enitre projects may be
 
 8)What happens when you initialize a repository? Why do you need to do it?
 ANS)to start all commits and maintain repositories man what are you thinking be smart
+
+-----------------------------------------
+this is adding for testing
+-----------------------------------------
