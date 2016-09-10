@@ -1,5 +1,5 @@
 1)How did viewing a diff between two versions of a file help you see the bug that
-was introduced?
+was introduced
 ANS)
 It shows directly the segment which is different in both the files if there is only one forced unknown mistake in thousands of lines of code it damn helpful. 
 
@@ -34,3 +34,9 @@ ANS)  honestly i dont know i think we will use enitre projects may be
 
 8)What happens when you initialize a repository? Why do you need to do it?
 ANS)to start all commits and maintain repositories man what are you thinking be smart
+
+9)How is the staging area different from the working directory and the repository? What value do you think it offers?
+ANS)staging area stores temperarily and wraps the files to commit
+
+10)How can you use the staging area to make sure you have one commit per logical change?
+ANS)we can use diff command between recent commit and staging area to see differences and we commit only after seeing change in logic of files
