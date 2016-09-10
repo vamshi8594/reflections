@@ -40,3 +40,9 @@ ANS)staging area stores temperarily and wraps the files to commit
 
 10)How can you use the staging area to make sure you have one commit per logical change?
 ANS)we can use diff command between recent commit and staging area to see differences and we commit only after seeing change in logic of files
+
+11)What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+ANS)branches are very helpful if want to check some new features and not sure to add it to original project
+
+12)How do the diagrams help you visualize the branch structure?
+ANS)it is sybolic representations so it helps remembering very fast
